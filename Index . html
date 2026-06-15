@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dishon Owiti | Site Supervisor</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+margin:0;
+padding:0;
+background:#f4f4f4;
+color:#333;
+}
+
+header{
+background:#1f2937;
+color:white;
+text-align:center;
+padding:60px 20px;
+}
+
+header h1{
+margin:0;
+font-size:42px;
+}
+
+header p{
+font-size:20px;
+}
+
+.container{
+width:85%;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:white;
+padding:25px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+h2{
+color:#1f2937;
+}
+
+.btn{
+display:inline-block;
+padding:12px 20px;
+background:#1f2937;
+color:white;
+text-decoration:none;
+border-radius:6px;
+}
+
+footer{
+background:#111827;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Dishon Owiti</h1>
+<p>Construction Site Supervisor | NCA Accredited | First Aider</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>About Me</h2>
+<p>
+I am a dedicated Construction Site Supervisor with experience in
+site supervision, workforce coordination, quality control,
+project scheduling and construction safety compliance.
+</p>
+</div>
+
+<div class="card">
+<h2>Skills</h2>
+<ul>
+<li>Site Supervision</li>
+<li>Project Coordination</li>
+<li>Quality Control</li>
+<li>MS Project</li>
+<li>ArchiCAD</li>
+<li>Excel Reporting</li>
+<li>Material Estimation</li>
+<li>Construction Safety</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Certifications</h2>
+<ul>
+<li>Diploma in Construction Technology</li>
+<li>NCA Accredited Site Supervisor</li>
+<li>St. John Ambulance Certified First Aider</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>My CV</h2>
+<p>CV upload coming soon.</p>
+</div>
+
+<div class="card">
+<h2>Contact</h2>
+<p>Email: royalinkengineerings@gmail.com</p>
+<p>Location: Nairobi, Kenya</p>
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 Dishon Owiti</p>
+</footer>
+
+</body>
+</html>
